@@ -1,4 +1,4 @@
-package ro.fasttrackit.curs21.service.serviceImpl;
+package ro.fasttrackit.curs21.service.impl;
 
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
